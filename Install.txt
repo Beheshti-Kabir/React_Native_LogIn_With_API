@@ -1,0 +1,7 @@
+-- npm i react-native-login-screen
+-- npm install react-native-spinkit@latest --save
+-- npm link react-native-spinkit
+-- npm i @freakycoder/react-native-helpers
+-- npm install --save react-native-material-textfield
+
+https://code.tutsplus.com/tutorials/common-react-native-app-layouts-login-page--cms-27639
